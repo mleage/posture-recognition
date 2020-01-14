@@ -1,0 +1,2 @@
+基于Openpose和Opencv的动作识别系统
+使用前请安装OpenPose和PyQt
